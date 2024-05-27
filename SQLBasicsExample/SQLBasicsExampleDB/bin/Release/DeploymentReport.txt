@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Inventory] (Table)
+       [dbo].[Products] (Table)
+       [dbo].[FK_ProductReference] (Foreign Key)
+       [dbo].[DELETE_Product_by_Title] (Procedure)
+       [dbo].[INSERT_Inventory] (Procedure)
+       [dbo].[INSERT_Product] (Procedure)
+       [dbo].[RETRIEVE_AllProducts] (Procedure)
+       [dbo].[RETRIEVE_ProductsByName] (Procedure)
+       [dbo].[RETRIEVE_TitleForProduct] (Procedure)
+       [dbo].[UPDATE_ProductTitle] (Procedure)
+
+** Supporting actions

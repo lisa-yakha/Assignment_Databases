@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column DateReceived in table [dbo].[ComplaintForm] is currently  BIT NOT NULL but is being changed to 
+         DATETIME NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with
+         type  DATETIME NOT NULL.
+
+** User actions
+     Alter
+       [dbo].[ComplaintForm] (Table)
+     Create
+       [dbo].[INSERT_Complaint] (Procedure)
+
+** Supporting actions
+
+The type for column DateReceived in table [dbo].[ComplaintForm] is currently  BIT NOT NULL but is being changed to  DATETIME NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  DATETIME NOT NULL.
+

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\bin\Debug\net8.0\LibraryExample.deps.json
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\bin\Debug\net8.0\LibraryExample.dll
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\bin\Debug\net8.0\LibraryExample.pdb
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\LibraryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\LibraryExample.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\LibraryExample.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\LibraryExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\LibraryExample.dll
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\refint\LibraryExample.dll
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\LibraryExample.pdb
+C:\Users\user\Desktop\C#\SQLBasicsExample\LibraryExample\obj\Debug\net8.0\ref\LibraryExample.dll

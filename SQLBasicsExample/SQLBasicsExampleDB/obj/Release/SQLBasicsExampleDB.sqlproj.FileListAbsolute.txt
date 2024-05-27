@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\bin\Release\SQLBasicsExampleDB.dacpac
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\bin\Release\SQLBasicsExampleDB.dll
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\bin\Release\SQLBasicsExampleDB.pdb
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\obj\Release\SQLBasicsExampleDB.sqlproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\obj\Release\Model.xml
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\obj\Release\refactor.xml
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\obj\Release\postdeploy.sql
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\obj\Release\predeploy.sql
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\obj\Release\SQLBasicsExampleDB.dll
+C:\Users\user\Desktop\C#\SQLBasicsExample\SQLBasicsExampleDB\obj\Release\SQLBasicsExampleDB.pdb
